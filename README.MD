@@ -1,5 +1,4 @@
 # ~tilde-hashtag
-[![npm](https://img.shields.io/npm/v/~tilde-hashtag.svg?style=flat-square)](https://www.npmjs.com/package/~tilde-hashtag) [![npm](https://img.shields.io/npm/dw/~tilde-hashtag.svg?style=flat-square)](https://www.npmjs.com/package/~tilde-hashtag) ![Love](https://img.shields.io/badge/love-max-brightgreen.svg?style=flat-square) [![Travis](https://img.shields.io/travis/lmfresneda/~tilde-hashtag.svg?style=flat-square)](https://travis-ci.org/lmfresneda/~tilde-hashtag)
 
 Extract tilde (~tilde) and/or hashtags (#hashtag) from any text
 
