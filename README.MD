@@ -72,4 +72,4 @@ $ npm install && npm test
 
 ## License
 
-MIT © [realprinceviper](https://github.com/realprinceviper)
+MIT © [alvacoder](https://github.com/alvacoder)
