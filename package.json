@@ -1,6 +1,6 @@
 {
   "name": "tildemention-hashtag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract tilde(~) and/or hashtags(#) from any text. very useful when you need to extract text from html content where numerous html tags would render (# and @) selections inefficient. (A modified version of mention-hashtag by @lmfresneda.",
   "main": "index.js",
   "scripts": {
